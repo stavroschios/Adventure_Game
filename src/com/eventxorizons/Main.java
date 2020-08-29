@@ -12,7 +12,7 @@ public class Main {
     public static void main(String[] args) {
 
         Map<String, Integer> tempExit = new HashMap<String, Integer>();
-        locations.put(0, new Location(0, "You are sitting in front of a computer learning Java",tempExit));
+        locations.put(0, new Location(0, "You have escaped!",tempExit));
 
         tempExit = new HashMap<String, Integer>();
         tempExit.put("W", 2);
