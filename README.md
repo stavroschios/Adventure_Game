@@ -22,3 +22,6 @@ Room 2 is placed on the left  of room 1; from room 2 you can only for north to R
 Room 3 is placed on the right of room 1 and there is nowhere to go but only back to room 1
 Room 4 is bellow room 1; from room4 the player can go to room 2 ( but not go back to room 4) or to room 1 which can go return;
 Room 5 is above room 1; From room 5 you can only go back to room 1;
+
+
+https://imgur.com/1d8GHLT
