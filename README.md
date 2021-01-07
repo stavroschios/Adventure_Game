@@ -24,4 +24,4 @@ Room 4 is bellow room 1; from room4 the player can go to room 2 ( but not go bac
 Room 5 is above room 1; From room 5 you can only go back to room 1;
 
 
-https://imgur.com/1d8GHLT
+![alt text](https://i.imgur.com/1d8GHLT.png)
